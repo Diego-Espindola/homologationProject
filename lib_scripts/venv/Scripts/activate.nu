@@ -32,7 +32,7 @@ export-env {
       }
     }
 
-    let virtual_env = 'C:\Users\diego.espindola\PycharmProjects\homologacao_venv\venv'
+    let virtual_env = 'C:\Users\diego.espindola\PycharmProjects\homologationProject\lib_scripts\venv'
     let bin = 'Scripts'
 
     let is_windows = ($nu.os-info.family) == 'windows'

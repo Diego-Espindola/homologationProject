@@ -1,0 +1,1 @@
+# pasta aonde será criada a venv

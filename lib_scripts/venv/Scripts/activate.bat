@@ -1,4 +1,4 @@
-@set "VIRTUAL_ENV=C:\Users\diego.espindola\PycharmProjects\homolgationProject\venv"
+@set "VIRTUAL_ENV=C:\Users\diego.espindola\PycharmProjects\homologacao_venv\venv"
 
 @set "VIRTUAL_ENV_PROMPT="
 @if NOT DEFINED VIRTUAL_ENV_PROMPT (
